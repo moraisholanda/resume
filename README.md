@@ -29,7 +29,7 @@ Maceio - Brazil
 > * Backend experience: JAVA, Groovy, Oracle
 > * Frontend experience: HTML5, CSS,AngularJs,JSF
 > * Infrastructure experience: Continuous delivery
-> * Extras: github, DeployBot,RESTful API, Grunt,Gulp
+> * Extras: github, RESTful API, Grunt,Gulp
 > * **Period:** *june 2015 – september 2015 (3 months) | Porto Alegre, RS*
 
 * **IlhaSoft [http://www.ilhasoft.com.br/](www.lhasoft.com.br/)**
@@ -38,7 +38,7 @@ Maceio - Brazil
 > * Frontend experience: HTML5, CSS, jQuery
 > * Infrastructure experience: Micorosoft Azure,Tomcat
 > * Extras: GitHub,Trello, MapBox
-> * **Period:** *may 2015 – october 2015 (6 months) | São Paulo, SP*
+> * **Period:** *september 2012 – maio 2015 (2,8 years) | São Paulo, SP*
 
 ---
 
@@ -47,13 +47,11 @@ Maceio - Brazil
 **BackEnd:**
 * JAVA
 * RESTful
-* Elasticsearch
-* Symfony
-* Silex
-* CakePHP
-* CodeIgniter
-* Laravel
-* RabbitMQ
+* Groovy
+* Node Js
+* Vraptor
+* Spring
+* Struts
 
 **FrontEnd:**
 * HTML5
@@ -83,15 +81,6 @@ Maceio - Brazil
 
 **Experiences in other languages:**
 * Node JS 
-
----
-
-## Additional Information
-
-* Facility and interest in learning
-* Creativity
-* Determination and responsibility
-* Easy to work in group
 
 ---
 
