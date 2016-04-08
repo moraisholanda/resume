@@ -33,11 +33,11 @@ Maceio - Brazil
 > * **Period:** *june 2015 – september 2015 (3 months) | Porto Alegre, RS*
 
 * **IlhaSoft [http://www.ilhasoft.com.br/](www.lhasoft.com.br/)**
-> * Level: Pleno
+> * Level: Pleno Java Developer / Android Developer
 > * Backend experience: JAVA, Angular Js, Parse, MySQL, SQL Server, MongoDB
 > * Frontend experience: HTML5, CSS, jQuery
 > * Infrastructure experience: Micorosoft Azure,Tomcat
-> * Extras: GitHub,Trello, MapBox
+> * Extras: GitHub,Trello, MapBox,Socials integration api's,Google Maps
 > * **Period:** *september 2012 – maio 2015 (2,8 years) | São Paulo, SP*
 
 ---
